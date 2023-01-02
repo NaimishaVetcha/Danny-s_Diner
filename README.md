@@ -1,4 +1,4 @@
-# Danny-s_Diner
+# Danny's_Diner
 Case Study 1 from Danny's 8_week_SQL_Challenge
 
 Source: https://8weeksqlchallenge.com/case-study-1/
